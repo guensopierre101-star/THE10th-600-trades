@@ -1,4 +1,65 @@
 {
- "settings": {"rr": 2.2, "risk": 100, "goal": 600, "start": "2026-10-01"},
- "trades": []
+ "settings": {
+  "rr": 2.1,
+  "risk": 100,
+  "goal": 600,
+  "start": "2026-10-01"
+ },
+ "trades": [
+  {
+   "date": "2026-10-12",
+   "time": "",
+   "dir": "BUY",
+   "res": "TP",
+   "r": 2.05,
+   "entry": "1.11587",
+   "sl": "1.497",
+   "tp": "1.11780",
+   "shot": "https://www.tradingview.com/x/yHe42IoZ/"
+  },
+  {
+   "date": "2026-10-13",
+   "time": "06:05",
+   "dir": "SELL",
+   "res": "SL",
+   "r": -1,
+   "entry": "1.11962",
+   "sl": "1.12058",
+   "tp": "1.11753",
+   "shot": "https://www.tradingview.com/x/7uds6Z4X/"
+  },
+  {
+   "date": "2026-10-14",
+   "time": "01:27",
+   "dir": "SELL",
+   "res": "TP",
+   "r": 2.05,
+   "entry": "1.12059",
+   "sl": "1.12131",
+   "tp": "1.11900",
+   "shot": "https://www.tradingview.com/x/61CzfECG/"
+  },
+  {
+   "date": "2026-10-14",
+   "time": "01:09",
+   "dir": "BUY",
+   "res": "TP",
+   "r": 2.01,
+   "entry": "1.11262",
+   "sl": "1.11111",
+   "tp": "1.11600",
+   "shot": "https://www.tradingview.com/x/zCSFzlux/"
+  },
+  {
+   "date": "2026-10-16",
+   "time": "08:38",
+   "dir": "BUY",
+   "res": "Autre",
+   "r": 0.06,
+   "entry": "1.12463",
+   "sl": "1.12713",
+   "tp": "1.11911",
+   "shot": "https://www.tradingview.com/x/CG4LKYqO/"
+  }
+ ]
 }

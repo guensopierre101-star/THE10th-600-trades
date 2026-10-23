@@ -1,8 +1,8 @@
 {
  "settings": {
-  "rr": 3.1,
+  "rr": 2.5,
   "risk": 100,
-  "goal": 600,
+  "goal": 100,
   "start": "2026-10-01"
  },
  "trades": [
@@ -60,6 +60,17 @@
    "sl": "",
    "tp": "",
    "shot": "https://www.tradingview.com/x/OVINypd8/"
+  },
+  {
+   "date": "2026-10-22",
+   "time": "",
+   "dir": "SELL",
+   "res": "TP",
+   "r": 2.5,
+   "entry": "",
+   "sl": "",
+   "tp": "",
+   "shot": "https://www.tradingview.com/x/1039GuRD/"
   }
  ]
 }
